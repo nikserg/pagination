@@ -1,5 +1,5 @@
 {
-  "name": "voku/pagination",
+  "name": "nikserg/pagination",
   "type": "library",
   "description": "Pagination, without a database dependency",
   "keywords": [
